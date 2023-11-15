@@ -1,0 +1,11 @@
+flask
+flask_pymongo
+mongoengine
+flask_login
+sentence_transformers
+jwt
+openai
+pyjwt
+gunicorn
+
+
